@@ -17,7 +17,7 @@
     "@nestjs/common": "^6.5.3",
     "@nestjs/core": "^6.5.3",
     "@nestjs/platform-express": "^6.5.3",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "firebase-admin": "^8.0.0",
     "firebase-functions": "^3.1.0",
     "reflect-metadata": "^0.1.13",
